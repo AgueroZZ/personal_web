@@ -12,33 +12,35 @@ subtitle = ""
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Summer internship"
+  company = "Development Research Centre of State Council, P.R China"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing, China"
+  date_start = "2018-06-01"
+  date_end = "2018-09-01"
+  description = """Cooperated with other staff to organize international seminars about China’s developing
+strategies. Translated lecture slides into English and did oral translation for the lecturer during the seminars."""
+
+
+# Experiences.
+[[experience]]
+  title = "Undergraduate Researcher"
+  company = "University of Toronto, Department of Statistics"
+  company_url = ""
+  location = "Toronto, Canada"
+  date_start = "2019-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Developed a novel method of approximate Bayesian inference for Cox Proportional hazard model using partial likelihood, that allows the inclusion of linear effect, semi-parametric smoothing effect and between-subject frailty. """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Undergraduate Researcher"
+  company = "University of Toronto, Department of Computer Science"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Toronto, Canada"
+  date_start = "2020-01-01"
+  date_end = "2020-07-31"
+  description = """Utilized statistical methods to improve the utilization rate and job’s survival rate on the dynamic scheduling system of cloud servers."""
+
 
 +++
