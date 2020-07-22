@@ -30,7 +30,7 @@ strategies. Translated lecture slides into English and did oral translation for 
   company_url = ""
   location = "Toronto, Canada"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-07-31"
   description = """Developed a novel method of approximate Bayesian inference for Cox Proportional hazard model using partial likelihood, that allows the inclusion of linear effect, semi-parametric smoothing effect and between-subject frailty. """
 
 [[experience]]
@@ -39,7 +39,7 @@ strategies. Translated lecture slides into English and did oral translation for 
   company_url = ""
   location = "Toronto, Canada"
   date_start = "2020-01-01"
-  date_end = "2020-07-31"
+  date_end = ""
   description = """Utilized statistical methods to improve the utilization rate and job’s survival rate on the dynamic scheduling system of cloud servers."""
 
 
