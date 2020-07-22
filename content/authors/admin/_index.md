@@ -4,8 +4,8 @@ role: Incoming PhD student in Department of Statistics, University of Toronto
 bio: ""
 interests:
   - Bayesian inference
-  - Statistical Computations
-  - Smoothing Methods
+  - Statistical Computation
+  - Smoothing Method
   - Interdisciplinary Studies
 social: []
 organizations:
