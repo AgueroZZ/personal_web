@@ -1,7 +1,7 @@
 ---
 title: Ziang Zhang
 role: Incoming PhD student in Department of Statistics, University of Toronto
-avatar_filename: picture.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Bayesian inference
